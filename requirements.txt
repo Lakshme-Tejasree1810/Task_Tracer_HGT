@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+jinja2
+pymongo
+python-multipart
+pydantic
+email-validator
+spacy
+pdfplumber
